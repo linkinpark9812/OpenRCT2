@@ -704,6 +704,7 @@ void window_land_rights_open();
 void window_staff_list_open();
 void window_guest_list_open();
 void window_guest_list_open_with_filter(sint32 type, sint32 index);
+void window_guest_list_find_groups_force_refresh();
 void window_map_open();
 void window_options_open();
 void window_guest_open(rct_peep* peep);
